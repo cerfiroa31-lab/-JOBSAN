@@ -1,7 +1,6 @@
 import streamlit as st
 
 
-
 st.set_page_config(page_title="เครื่องคำนวณค่าแรง", layout="centered")
 st.image("B3.jpg",use_container_width=True)
 
@@ -9,7 +8,7 @@ st.image("B3.jpg",use_container_width=True)
 st.title("เครื่องคำนวณค่าแรงและ OT TC.Sec")
 
 st.subheader("By JOB")
-
+st.subheader("*ใช้คำนวนอ้างอิงรายรับค่าจ้าง จุดไหนไม่ตรงสอบถาม GA Tel-5259")
 
 
 # 1. เลือกประเภทพนักงาน
